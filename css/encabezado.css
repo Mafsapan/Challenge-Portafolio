@@ -1,0 +1,6 @@
+.encabezado{
+    background: #ca8888;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 6rem 1rem 3rem;
+}
