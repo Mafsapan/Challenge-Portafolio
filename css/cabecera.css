@@ -1,5 +1,6 @@
 .cabecera{
     display: flex;
     justify-content: space-between;
-    margin: 2rem 5rem 2rem 3rem;
+    padding: 2rem 5rem 2rem 3rem;
+    background: linear-gradient(#ca8888,#ffffff);
 }

@@ -1,0 +1,6 @@
+.skill__titulo{
+    display: flex;
+    font-family: 'Kurale', sans-serif;
+    font-size: 40px;
+    justify-content: center;
+}

@@ -1,0 +1,8 @@
+.hobbie__item{
+    display: flex;
+    flex-direction: column-reverse;
+    height: 140px;
+    width: 130px;
+    padding: 0 0 5px 5px;
+    background-color: #ca888822;
+}

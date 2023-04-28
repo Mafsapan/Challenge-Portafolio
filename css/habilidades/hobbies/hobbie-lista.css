@@ -1,6 +1,6 @@
-.encabezado{
+.hobbie__lista{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     padding: 1rem 6rem 1rem 3rem;
-    margin-bottom: 2rem;
 }
