@@ -1,0 +1,5 @@
+.formacion{
+    display: flex;
+    flex-direction: column;
+    background: #ca8888b4;
+}

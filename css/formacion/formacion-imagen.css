@@ -1,0 +1,14 @@
+.formacion__imagen{
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.formacion__imagen--uam{
+    background-image: url(../../img/formacion/uam.png);
+}
+
+.formacion__imagen--alura{
+    background-image: url(../../img/formacion/alura.png);
+}

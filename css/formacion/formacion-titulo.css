@@ -1,0 +1,6 @@
+.formacion__titulo{
+    display: flex;
+    align-self: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
